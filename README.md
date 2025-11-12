@@ -149,19 +149,13 @@ Cada requisição usa um nonce e cnonce aleatórios.
 
 Os dados são transmitidos com integridade garantida.
 
-🧠 Próximos Passos
-
-🔹 Implementar HTTPS (TLS)
-
-🔹 Adicionar suporte MQTT para integração em nuvem
-
-🔹 Criar dashboard web local em SPIFFS
+ 
 
 👨‍💻 Autor
 
 Aislan Silva Costa
 Engenheiro de Sistemas Embarcados • Especialista em IoT e Segurança Eletrônica
-📧 Contato: aislan.silva.costa@example.com
+📧 Contato: comprasaislan@gmail.com
 
 🪪 Licença
 
